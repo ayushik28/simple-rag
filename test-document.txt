@@ -1,0 +1,14 @@
+This is a simple test document for the RAG application.
+
+The RAG system can answer questions about this content. 
+
+Some key points:
+- This document contains test information
+- It demonstrates how document upload works
+- Users can ask questions about the content
+- The AI will provide relevant answers based on this text
+
+You can ask questions like:
+- What is this document about?
+- What key points are mentioned?
+- How does the RAG system work?
